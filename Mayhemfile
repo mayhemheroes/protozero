@@ -1,5 +1,5 @@
-project: rnshah9/protozero
-target: protozero
+project: protozero
+target: pbf-decoder
 
 cmds:
   - cmd: /repo/build/tools/pbf-decoder @@
