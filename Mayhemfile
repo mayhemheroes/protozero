@@ -2,4 +2,4 @@ project: protozero
 target: pbf-decoder
 
 cmds:
-  - cmd: /repo/build/tools/pbf-decoder @@
+  - cmd: /pbf-decoder @@
