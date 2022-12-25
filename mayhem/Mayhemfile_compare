@@ -1,0 +1,6 @@
+project: protozero
+target: compare
+
+cmds:
+  - cmd: /fuzz_compare
+    libfuzzer: true
